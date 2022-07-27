@@ -1,10 +1,7 @@
-![Covid Genomics](https://covidgenomics.com/images/cg_logo.png)
+<img src="https://deepflare.ai/images/df_logo_2.png" width="200px" />
 
-<h1> Covid Genomics </h1>
-
-
-<h2>Develop better RT-PCR primers with us 💊</h2>
-<p>Our main mission is to provide data and tools required to effectively understand and predict the behavior of SARS-CoV-2. We aim to help develop next-gen RT-PCR tests and mRNA vaccines.
+<h2>Develop better vaccines with us 💊</h2>
+<p>Our main mission is to provide data and tools required to effectively understand and predict the behavior of SARS-CoV-2. We aim to help develop next-gen mRNA vaccines.
 </p>
 
 <h2>  Who We Are 🧑‍💻</h2>
@@ -21,14 +18,10 @@
     <li>KubeFlow & MLFlow & SageMaker</li>
 </ul>
 
-<h2>Projects 🧑‍⚕‍ </h2>
-
-TO BE DONE
-
 <h2>How To Reach Us ⚡ </h2>
 <ul>
-    <li><a href="https://covidgenomics.com/">Covid Genomics Official</a></li>
-    <li><a href="https://www.linkedin.com/company/covidgenomics/">Covid Genomics LinkedIn</a></li>
-    <li><a href="https://github.com/covid-genomics">Covid Genomics GitHub</a></li>
+    <li><a href="http://deepflare.ai/">Deepflare Website</a></li>
+    <li><a href="https://www.linkedin.com/company/deepflare/">Deepflare LinkedIn</a></li>
+    <li><a href="https://github.com/covid-genomics">Deepflare GitHub</a></li>
 </ul>
 
