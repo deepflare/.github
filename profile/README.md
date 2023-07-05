@@ -1,21 +1,13 @@
-<img src="https://deepflare.ai/images/df_logo_2.png" width="200px" />
-
 <h2>Develop better vaccines with us 💊</h2>
-<p>Our main mission is to provide data and tools required to effectively understand and predict the behavior of SARS-CoV-2. We aim to help develop next-gen mRNA vaccines.
+<p>Our company, Deepflare, is pioneering the use of AI to revolutionize vaccine and immunotherapy design for pharmaceutical companies. We're creating novel solutions by modeling immunological processes and generating antigen candidates through generative AI.
 </p>
 
-<h2>  Who We Are 🧑‍💻</h2>
-<p>We are a team of young professionals and aspiring entrepreneurs, which share the passion for our project. Our experience from companies such as BCG, PwC, PAN, Bytedance helps us build a better tomorrow. </p>
-<h2>Tech Stack ( Languages & Tools ) 🔥</h2>
+<h2>Tech Stack 🔥</h2>
 <ul>
     <li>Python</li>
-    <li>Go / GoLang</li>
-    <li>Linux Based Development</li>
-    <li>Apache Airflow</li>
-    <li>Docker</li>
-    <li>Kubernetes</li>
-    <li>Azure Cloud</li>
-    <li>KubeFlow & MLFlow & SageMaker</li>
+    <li>Pytorch</li>
+    <li>Linux</li>
+    <li>Azure</li>
 </ul>
 
 <h2>How To Reach Us ⚡ </h2>
