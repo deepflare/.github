@@ -14,6 +14,6 @@
 <ul>
     <li><a href="http://deepflare.ai/">Deepflare Website</a></li>
     <li><a href="https://www.linkedin.com/company/deepflare/">Deepflare LinkedIn</a></li>
-    <li><a href="https://github.com/covid-genomics">Deepflare GitHub</a></li>
+    <li><a href="https://github.com/deepflare/">Deepflare GitHub</a></li>
 </ul>
 
